@@ -80,5 +80,5 @@
 <li>Build and Run your app.</li>
 <h2 style="text_align:left;"><b>Chat with your own bot</b></h2>
  <center><img src="https://github.com/Yogeshwaranchandrasekaran/Riyo/blob/master/images/IMG-20180819-WA0003.jpg?raw=true" alt="Android" height="720"width="480"></center>
-<center><img src="https://github.com/Yogeshwaranchandrasekaran/Riyo/blob/master/images/IMG-20180819-WA0002.jpg?raw=true" alt="Android"></center>
+<center><img src="https://github.com/Yogeshwaranchandrasekaran/Riyo/blob/master/images/IMG-20180819-WA0002.jpg?raw=true" alt="Android" height="720" width="480"></center>
      
