@@ -3,7 +3,7 @@
    <p>WatBot is an IBM Watson powered ChatBot running on Android and using    Watson Assistant service on IBM Cloud ( an open standards, cloud    platform for building, running, and managing apps and services).</p>
 <h2 style="text-align:left;"> Coding the app on Android Stdio </h2>
    <p>Android Stdio is the official IDE for Android. Android Stdio provides    the fastest tools for building apps on every type of android device.
-   <center><img src="https://github.com/Yogeshwaranchandrasekaran/Riyo/blob/master/images/as.png?raw=true" ></center>
+   <center><img src="https://github.com/Yogeshwaranchandrasekaran/Riyo/blob/master/images/as.png?raw=true alt="Watbot in Android studio" ></center>
 <h2 style="text-align:left;"><b>Creation of Watson Assistant service</b></h1>
    <p>Watson Assistant combines a number of cognitive techniques to help     you build and train a bot - definin intents and entities and crafting     dialog to simulate Watson Assistant.
 <h3 style="text-align:left;">Getting Started</h3>
